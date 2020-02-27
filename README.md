@@ -1,2 +1,2 @@
-# color-picker
+# shopping-list
 Deep Dive Prework
